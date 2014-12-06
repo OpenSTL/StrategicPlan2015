@@ -3,4 +3,4 @@ StrategicPlan2015
 
 Ideas for OpenDataSTL in 2015!
 
-Please comment in Goals & Strategies, Outcomes, or Budget files. 
+Please comment in "PreMeetingDiscussion.md" which is a template provided by Code for America.
