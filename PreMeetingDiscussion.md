@@ -1,4 +1,3 @@
-#Who We Are
 ##Group Description
 This is who we are as a group.
 ##Core Leadership Team
@@ -7,8 +6,7 @@ Storyteller: Erin
 Community Organizer: 
 Delivery Lead: Jon
 Municipal Partner: City, County
-
-#What We Want to Do This Year
+##Goals for 2015
 What does your Brigade want to get done this year? If you’re seeking support as an Official Brigade Chapter, your strategy needs to map to one or more of the Code for America Principles for 21st Century Governments.
 ##Strategy & Tactics
 What strategy and tactics will you use to execute on your goals for the year? A timeline can be a useful way to demonstrate this.
