@@ -38,4 +38,50 @@ development and launch of app/projects
 
 hosting, marketing materials, etc.
 
+##EVENTS
+January
+Global Game Jam
+OpenDataSTL is sending a team to the Saint Louis site for the Global Game Jam, with the intention of creating a video game based on an opensource dataset. The hope is to use this as a means to increase awareness of the organization and opensource principles.
+
+February
+Datathon
+A hackathon that focuses on the creation and analysis of open datasets. Cost can vary from $0-$5k
+Expenses Include:
+Food and Drinks
+Marketing
+Space Reservations
+Prizes
+
+March
+State of the Map?
+
+April
+Editathon
+
+May
+BuildforSTL Ramp-up events
+Data scavenger hunt
+
+June
+BuildforSTL
+BuildforSTL is OpenDataSTL's National Day of Civic Hacking event. Last year, it cost ~$15k, paid for by 3rd party sponsors. We would like to grow this event this year by moving most of the activities to earlier in the month in order to drive participation for the hackathon. 
+
+OpenStreetMap State of the Map US June 6-8 in NYC (let's have a group go together if there is interest)
+
+July
+Government Document Designathon
+
+August
+
+September
+Open Source Game Night
+Code for America Summit (whereever it is, we might have a group travel together)
+
+October
+
+November
+Editathon
+
+December
+Health Department Hackday
 
