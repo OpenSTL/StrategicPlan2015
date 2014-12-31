@@ -1,16 +1,17 @@
 # Strategic Plan 2015 Brainstorming  
 *Number of votes in pararenthesis*
+*Votes represent OpenDataSTL members present at the December 30, 2014 meeting who indicated (via hash marks) that they were willing to commit time & energy to an idea.  Names indicate specific leaders/champions of ideas identified during the meeting.*
 *  Big Picture Goals/Vision  
-  +  Build4STL (6)  
-  +  Advance state of Open Data. "Liberate" 25 datasets in 2015 (4)  
-  +  Elections for Brigade (2)  
+  +  Build4STL (6) - Jon
+  +  Advance state of Open Data. "Liberate" 25 datasets in 2015 (4) - Eleanor
+  +  Elections for Brigade (2) - Bill
   +  How things are communicated (2)
-  +  Start building/deploying apps as OpenDataSTL (0)
+  +  Start building/deploying apps as OpenDataSTL (0) - James
       Note: Covered by Project/App/Event section
 *  OpenDataSTL Diversity and Growth  
-  +  Women's Hackathon/Capacity building in women run events (5)  
+  +  Women's Hackathon/Capacity building in women run events (5)
   +  Minority inclusion/outreach (3)
-  +  More mapathons in different neighborhoods (3)
+  +  More mapathons in different neighborhoods (3) - Eleanor
   +  Different locations for meeting (3)
   +  Finish Digital BioBlitz (1)
   +  Fun Meetings: Show off a cool civic tech/open data project each time (1)
@@ -43,6 +44,7 @@
   +  Strange Loop Conference (1)
   +  UMSL/SIUE/WUSTL (1)
   +  FOIA Day (0) - Eleanor
+      Note: While there were no votes for this idea, subsequent discussion showed there was some interest/support
   +  Big Data Conferences (0)
   +  Bring more elected officials/public officials to meeting (0)
   +  Future Black BusinessLeaders of America (0)
@@ -54,14 +56,14 @@
   +  Tableau (0)
 *  Projects/Apps/Events
   +  Health
-    -  Health Department Hack Day (7)
+    -  Health Department Hack Day (7) - Eleanor
       * Flu Shot Finder
       * Health inspections on Yelp
   +  Safety and Justice
     -  Municipal Courts, warrants, education, data, amnesty info, etc (5)
     -  Emergency Shelter app - Kim (1)
   +  Economic Development
-    -  Identify disadvantaged community businesses and the grantes they qualify for (5)
+    -  Identify disadvantaged community businesses and the grantes they qualify for (5) - James
     -  Datathon
     -  Beerathon (Open Source Beer) (3)
     -  Training Sessions (0)
