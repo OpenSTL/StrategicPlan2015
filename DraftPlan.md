@@ -93,19 +93,25 @@ Many of our goals will be advanced during and through events.  In addition to th
 	
 ##Draft Budget
 
-
 For 2015, Code for America anticipates it can offer Official Brigade Chapters a budget of $5,500 in support. **Note: this amount will be pro-rated throughout the year based on when a group joins.**  
 
 Please draft a budget for how your group will spend this $5,500. The budget should map to the goals in your strategic plan.  
    
-Areas where Brigades often spend money include:  
-  
-* regular events, like weekly hack nights and Meetups
-  - 12 meetups
-  - 12 (?) work nights
-  - Include editathons here
-  - Food and some material costs
-  - Assume no space costs
+###Regular Events  
+28 total events  
+* 12 Meetups (monthly on last Tuesday of month)  
+* 12 Work sessions (monthly on 2nd Saturday of month)  
+* 4 OSM Editathons (quarterly based on national events)  
+Food/drink: $60/event  
+Photocopies/paper: $10/event  
+No space costs anticipated  
+**Total: $1,960
+
+###Large events
+####CodeAcross
+####FOIA Day
+####BuildForSTL (National Day of Civic Hacking)
+
 
 * large events, like CodeAcross, National Day of Civic Hacking, or CityCamp
   - food, beverage, space, material supplies, speakers, prizes, etc.
@@ -122,6 +128,3 @@ Areas where Brigades often spend money include:
   - Need estimate on hosting costs for apps
   - Domain registration (Brett will get quote)
   - Twitter/facebook advertising
-
-
-
