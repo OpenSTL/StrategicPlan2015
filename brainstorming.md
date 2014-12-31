@@ -1,5 +1,6 @@
 # Strategic Plan 2015 Brainstorming  
-*Number of votes in pararenthesis*
+*Number of votes in pararenthesis.*
+
 *Votes represent OpenDataSTL members present at the December 30, 2014 meeting who indicated (via hash marks) that they were willing to commit time & energy to an idea.  Names indicate specific leaders/champions of ideas identified during the meeting.*
 *  Big Picture Goals/Vision  
   +  Build4STL (6) - Jon
