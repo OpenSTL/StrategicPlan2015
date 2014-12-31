@@ -1,24 +1,29 @@
 ##Group Description
-This is who we are as a group.
+OpenDataSTL is a group is for champions, advocates, innovators, and practitioners of open data, open government, and civic technology in the Saint Louis region.
+There are roles for developers, designers, technologists, journalists, bureaucrats, policy wonks, and anyone else who wants to contribute to the policy implementation, software development, advocacy, and just plain hard work of advancing the state of open data and civic technology in Saint Louis.
+OpenDataSTL grew out of the June 2013 Random Hacks of Kindness STL, which was part of the 2013 National Day of Civic Hacking Event. Civic hacks and open data planning are regular activities of this group.  In June 2014, OpenDataSTL became the local Saint Louis Code for America brigade.
 ##Core Leadership Team
 Captains: Brett Lord-Castillo, Eleanor Tutt  
 Storyteller: Erin Richey  
 Community Organizer: *Vacant*  
 Delivery Lead: Jon Leek  
-Municipal Partner: City Of St Louis, St Louis County  
+Municipal Partners: City Of St Louis, St Louis County  
+Community (non-profit) Partners: Rise Community Development, St. Louis Public Library, many others in the works!
   
 ##Goals for 2015
 What does your Brigade want to get done this year? If you’re seeking support as an Official Brigade Chapter, your strategy needs to map to one or more of the Code for America Principles for 21st Century Governments.  
 http://www.codeforamerica.org/governments/principles/
 ##Strategy & Tactics
+
 What strategy and tactics will you use to execute on your goals for the year? A timeline can be a useful way to demonstrate this.
 ##Outcomes
 What are the outcomes you’ll see if you’re successful?
 	
 ##Draft Budget
 
+
 For 2015, Code for America anticipates it can offer Official Brigade Chapters a budget of $5,500 in support. **Note: this amount will be pro-rated throughout the year based on when a group joins.**  
-  
+
 Please draft a budget for how your group will spend this $5,500. The budget should map to the goals in your strategic plan.  
    
 Areas where Brigades often spend money include:  
@@ -48,9 +53,8 @@ Areas where Brigades often spend money include:
 
 ##EVENTS
 January  
-Health Department Hackday  
-Global Game Jam 
-OpenDataSTL is sending a team to the Saint Louis site for the Global Game Jam, with the intention of creating a video game based on an opensource dataset. The hope is to use this as a means to increase awareness of the organization and opensource principles.  
+Health Hack Weekend: Partnering with the City of St. Louis Health Department to hold a "scatterjam" style hack weekend to redeploy existing Code for America health-related apps as well as create new health-related tools.  
+Global Game Jam: Sending a team to the Saint Louis site for the Global Game Jam, with the intention of creating a video game based on an opensource dataset. The hope is to use this as a means to increase awareness of the organization and opensource principles.  
   
 February  
 CodeAcross: Datathon  
@@ -62,11 +66,11 @@ Space Reservations
 Prizes  
   
 March  
-FOIA Day  
+FOIA Day (in partnership with the St. Louis Public Library)
   
 April  
-Editathon  
-  
+OpenStreetMap Mapathon
+
 May  
 BuildforSTL Ramp-up events  
 Data scavenger hunt  
@@ -89,8 +93,8 @@ Code for America Summit (whereever it is, we might have a group travel together)
 October  
   
 November  
-Editathon  
-  
+OpenStreetMap Mapathon
+
 December  
 Health Department Hackday  
 
