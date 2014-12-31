@@ -16,15 +16,17 @@ Community (non-profit) Partners: Rise Community Development, St. Louis Public Li
   
 ##Goals for 2015
 
-Based the OpenDataSTL strategic plan brainstorming/prioritizing meeting held December 30, 2014 (full idea list here: https://github.com/OpenDataSTL/StrategicPlan2015/blob/master/brainstorming.md), the following are core goals for 2015. *Note: OpenDataSTL will continue to refine and revisit our goals based on brigade member input, especially during the month of January 2015*
+Based the OpenDataSTL strategic plan brainstorming/prioritizing meeting held December 30, 2014 (full idea list here: https://github.com/OpenDataSTL/StrategicPlan2015/blob/master/brainstorming.md), the following are core goals for 2015. 
+*Note: OpenDataSTL will continue to refine and revisit our goals based on brigade member input, especially during the month of January 2015*
 
 + Increase the impact of the Build4STL hackathon, our biggest annual event
 + Advance the state of Open Data in Saint Louis and open 25+ datasets
 + Determine a process for annual brigade leadership elections & leadership transition
 + Improve both internal and external communications
-+ Grow and diversify OpenDataSTL membership and partnerships *Note: this goal was identified prior to the Build4STL strategic planning meeting and, as such, brainstorming focused on strategies and tactics to achieve this goal, as well as potential partnerships*
++ Grow and diversify OpenDataSTL membership and partnerships 
+  *Note: this goal was identified prior to the Build4STL strategic planning meeting and, as such, brainstorming focused on strategies and tactics to achieve this goal, as well as potential partnerships*
 
-OpenDataSTL's goals for 2015 relate to all 7 of Code for America's Principles for 21st Century Governments (listed below).  Given our focus this year on communications, growth/diversity/inclusion/partnerships, opening new datasets and increasing the impact of Build4STL, the principles that most resonate with our 2015 Strategic Plan include "Make it easy for everyone to participate", "Make data easy to dind and use", and "Organize for results."
+OpenDataSTL's goals for 2015 relate to all 7 of Code for America's Principles for 21st Century Governments (listed below).  Given our focus this year on communications, growth/diversity/inclusion/partnerships, opening new datasets and increasing the impact of Build4STL, the principles that especially align with our 2015 Strategic Plan include "2. Make it easy for everyone to participate", "4. Make data easy to find and use", and "7. Organize for results."
 
 ###Code for America Principles for 21st Century Governments 
 1. Design for people's needs
