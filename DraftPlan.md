@@ -6,6 +6,9 @@ There are roles for developers, designers, technologists, journalists, bureaucra
 OpenDataSTL grew out of the June 2013 Random Hacks of Kindness STL, which was part of the 2013 National Day of Civic Hacking Event. Civic hacks and open data planning are regular activities of this group.  In June 2014, OpenDataSTL became the local Saint Louis Code for America brigade.
 
 In addition to this draft plan, please also refer to our list brainstormed goals, strategies, tactics, and potential new partnerships ranked by the number of votes from OpenDataSTL members present at our December 30, 2014 meeting: https://github.com/OpenDataSTL/StrategicPlan2015/blob/master/brainstorming.md 
+
+----------
+
 ##Core Leadership Team
 Captains: Brett Lord-Castillo, Eleanor Tutt  
 Storyteller: Erin Richey  
@@ -13,6 +16,8 @@ Community Organizer: *Vacant*
 Delivery Lead: Jon Leek  
 Municipal Partners: City Of St Louis, St Louis County  
 Community (non-profit) Partners: St. Louis Public Library, Rise Community Development, many others in the works!
+
+----------
   
 ##Goals for 2015
 
@@ -37,9 +42,13 @@ OpenDataSTL's goals for 2015 relate to all 7 of Code for America's Principles fo
 6. Choose the right technology for the job
 7. Organize for results
 
+----------
+
 ##Strategy & Tactics
 
 Many of our goals will be advanced during and through events.  In addition to the events and major milestones listed below, OpenDataSTL holds regular monthly meetings and monthly Saturday "hack/work days."  Finally, there are some overarching and overlapping values OpenDataSTL has identified for 2015: namely improving internal and external communications, growing and diversifying our membership, and forging new partnerships.  Clear, compelling communication, inclusion, and partnership will be critical to the success of all of the events listed below, and OpenDataSTL will work on ways to evaluate our performance on these issues.
+
+----------
 
 ###Draft Events & Milestones Timeline
 ####January  
@@ -83,6 +92,8 @@ Many of our goals will be advanced during and through events.  In addition to th
 ####December  
 + Strategic Planning for 2016
 
+----------
+
 ##Outcomes
 
 + Ideally, new open data policies implemented by City of St Louis and St Louis County.  (Much of our work is related to education and demonstration about why Open Data matters.)
@@ -90,8 +101,9 @@ Many of our goals will be advanced during and through events.  In addition to th
 + Events held, apps deployed, and projects completed that reflect the leadership and values of a more diverse OpenDataSTL membership (skillsets, backgrounds, genders, races/ethnicities, geographies, incomes) 
 + Additional partnerships with local governments, community not-for-profits, and private sector companies
 + Additional influence (perhaps measured via social media follows, web analytics, etc.) due to improved communication and messaging
+
+----------
 	
-##Draft Budget
 ##Draft Budget
 $ 500.00  Brigade Costs     
 $1960.00  Regular Events  
@@ -99,7 +111,6 @@ $ 600.00  CodeAcross
 $ 100.00  FOIA Day  
 $ 240.00  BuildForSTL Ramp Up  
 $2100.00  BuildForSTL (National Day of Civic Hacking)  
-
 
 ###Brigade costs  
 Domain renewal: $140.00  
