@@ -15,9 +15,25 @@ Municipal Partners: City Of St Louis, St Louis County
 Community (non-profit) Partners: Rise Community Development, St. Louis Public Library, many others in the works!
   
 ##Goals for 2015
-What does your Brigade want to get done this year? If you’re seeking support as an Official Brigade Chapter, your strategy needs to map to one or more of the Code for America Principles for 21st Century Governments.  
-http://www.codeforamerica.org/governments/principles/
 
+Based the OpenDataSTL strategic plan brainstorming/prioritizing meeting held December 30, 2014 (full idea list here: https://github.com/OpenDataSTL/StrategicPlan2015/blob/master/brainstorming.md), the following are core goals for 2015. *Note: OpenDataSTL will continue to refine and revisit our goals based on brigade member input, especially during the month of January 2015*
+
++ Increase the impact of the Build4STL hackathon, our biggest annual event
++ Advance the state of Open Data in Saint Louis and open 25+ datasets
++ Determine a process for annual brigade leadership elections & leadership transition
++ Improve both internal and external communications
++ Grow and diversify OpenDataSTL membership and partnerships *Note: this goal was identified prior to the Build4STL strategic planning meeting and, as such, brainstorming focused on strategies and tactics to achieve this goal, as well as potential partnerships*
+
+OpenDataSTL's goals for 2015 relate to all 7 of Code for America's Principles for 21st Century Governments (listed below).  Given our focus this year on communications, growth/diversity/inclusion/partnerships, opening new datasets and increasing the impact of Build4STL, the principles that most resonate with our 2015 Strategic Plan include "Make it easy for everyone to participate", "Make data easy to dind and use", and "Organize for results."
+
+###Code for America Principles for 21st Century Governments 
+1. Design for people's needs
+2. Make it easy for everyone to participate
+3. Focus on what government can do
+4. Make data easy to find and use
+5. Use data to make and improve decisions
+6. Choose the right technology for the job
+7. Organize for results
 
 ##Strategy & Tactics
 
@@ -73,25 +89,21 @@ Many of our goals will be advanced during and through events.  In addition to th
 + Additional partnerships with local governments, community not-for-profits, and private sector companies
 + Additional influence (perhaps measured via social media follows, web analytics, etc.) due to improved communication and messaging
 	
+##Draft Budget
+
+
 For 2015, Code for America anticipates it can offer Official Brigade Chapters a budget of $5,500 in support. **Note: this amount will be pro-rated throughout the year based on when a group joins.**  
 
 Please draft a budget for how your group will spend this $5,500. The budget should map to the goals in your strategic plan.  
    
-###Regular Events  
-28 total events  
-* 12 Meetups (monthly on last Tuesday of month)  
-* 12 Work sessions (monthly on 2nd Saturday of month)  
-* 4 OSM Editathons (quarterly based on national events)  
-Food/drink: $60/event  
-Photocopies/paper: $10/event  
-No space costs anticipated  
-**Total: $1,960
-
-###Large events
-####CodeAcross
-####FOIA Day
-####BuildForSTL (National Day of Civic Hacking)
-
+Areas where Brigades often spend money include:  
+  
+* regular events, like weekly hack nights and Meetups
+  - 12 meetups
+  - 12 (?) work nights
+  - Include editathons here
+  - Food and some material costs
+  - Assume no space costs
 
 * large events, like CodeAcross, National Day of Civic Hacking, or CityCamp
   - food, beverage, space, material supplies, speakers, prizes, etc.
@@ -108,7 +120,6 @@ No space costs anticipated
   - Need estimate on hosting costs for apps
   - Domain registration (Brett will get quote)
   - Twitter/facebook advertising
-
 
 
 
