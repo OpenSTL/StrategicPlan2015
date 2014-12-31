@@ -50,7 +50,8 @@ Many of our goals will be advanced during and through events.  In addition to th
 
 ----------
 
-###Draft Events & Milestones Timeline
+###Draft Events & Milestones Timeline  
+  
 ####January  
 + Health Hack Weekend: Partnering with the City of St. Louis Health Department to hold a "scatterjam" style hack weekend to redeploy existing Code for America health-related apps as well as create new health-related tools.  
 + Global Game Jam: Sending a team to the Saint Louis site for the Global Game Jam, with the intention of creating a video game based on an opensource dataset. The hope is to use this as a means to increase awareness of the organization and opensource principles.  
@@ -138,24 +139,28 @@ No space costs anticipated
 ###Large events  
 The large events are critical to recruitment but also are where we truly develop brigade leadership and spread the cause of civic technology.  
 As in 2014, our central event will be BuildForSTL, but we also intend to expand our participation in CodeAcross and add FOIA Day to our event calendar.  
+  
 ####CodeAcross: Target of 50 participants  
 CodeAcross this year will be a datathon where we work primarily on freeing datasets as well as bringing in experts from partners for education sessions on specific datasets.  
 No space costs anticipated  
 Advertising: $200.00 (Facebook/Twitter)  
 Food/Drinks: $300.00  
 Supplies: $100.00  
-**Event Total: $600.00**
+**Event Total: $600.00**  
+  
 ####FOIA Day: Target 50 participants at main library event    
 Brigade members will provide presentations at libraries throughout the region. We will need to provide members with presentation and promotional materials.  
 No food or space expenditures are anticipated. Supplies for ~5 members to present at branch libraries.  
-Supplies: $100.00    
-**Event Total: $100.00**
+Supplies: $100.00  
+**Event Total: $100.00**  
+  
 ####Ramp up to Build For STL  
 We plan to host events throughout the month leading to National Day of Civic Hacking. Though we intend to get third party sponsors, we anticipate food costs for some events.  
 ~20 events with additional food costs for ~4 at $60/event.   
 Food/drink: $240.00  
-**Event Total: $240.00**
-####BuildForSTL (National Day of Civic Hacking)  
+**Event Total: $240.00**  
+  
+####BuildForSTL (National Day of Civic Hacking): Target of 500 participants  
 Once again we anticipate recruiting significant third party sponsors for BuildForSTL. We have a few sponsorship roles specific to Code for America though.  
 Unlike last year, we will likely eliminate prizes and focus more on community results than competition.  
 For CfA's role, we would like to have CfA sponsor two event food breaks.  
@@ -165,4 +170,4 @@ Speakers: In kind support to provide/recruit speakers
 Advertising: $500.00  
 Two CfA-sponsored food breaks: $600.00 @ $300 ea.  
 Event Space: $1000.00  
-**Event Total: $2100.00**
+**Event Total: $2100.00**  
