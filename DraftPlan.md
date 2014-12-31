@@ -12,7 +12,7 @@ Storyteller: Erin Richey
 Community Organizer: *Vacant*  
 Delivery Lead: Jon Leek  
 Municipal Partners: City Of St Louis, St Louis County  
-Community (non-profit) Partners: Rise Community Development, St. Louis Public Library, many others in the works!
+Community (non-profit) Partners: St. Louis Public Library, Rise Community Development, many others in the works!
   
 ##Goals for 2015
 
