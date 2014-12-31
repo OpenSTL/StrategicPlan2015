@@ -1,18 +1,15 @@
 ##Group Description
 This is who we are as a group.
 ##Core Leadership Team
-Captain(s): Brett, Eleanor
-
-Storyteller: Erin
-
-Community Organizer: 
-
-Delivery Lead: Jon
-
-Municipal Partner: City, County
+Captains: Brett Lord-Castillo, Eleanor Tutt
+Storyteller: Erin Richey
+Community Organizer: *Vacant*
+Delivery Lead: Jon Leek
+Municipal Partner: City Of St Louis, St Louis County
 
 ##Goals for 2015
 What does your Brigade want to get done this year? If you’re seeking support as an Official Brigade Chapter, your strategy needs to map to one or more of the Code for America Principles for 21st Century Governments.
+http://www.codeforamerica.org/governments/principles/
 ##Strategy & Tactics
 What strategy and tactics will you use to execute on your goals for the year? A timeline can be a useful way to demonstrate this.
 ##Outcomes
@@ -26,25 +23,37 @@ Please draft a budget for how your group will spend this $5,500. The budget shou
  
 Areas where Brigades often spend money include:
 
-regular events, like weekly hack nights and Meetups
+* regular events, like weekly hack nights and Meetups
+  - 12 meetups
+  - 12 (?) work nights
+  - Include editathons here
+  - Food and some material costs
+  - Assume no space costs
 
-food, beverage, space, material supplies, etc.
+* large events, like CodeAcross, National Day of Civic Hacking, or CityCamp
+  - food, beverage, space, material supplies, speakers, prizes, etc.
+  - Planning to eliminate prizes
+  - CodeAcross will just be food costs
+  - Budget Build4STL last, and max out budget
+  - See below for additional events
 
-large events, like CodeAcross, National Day of Civic Hacking, or CityCamp
+* development and launch of app/projects
+  - Should be mostly hosting costs
+  - Perhaps some promotional costs?
 
-food, beverage, space, material supplies, speakers, prizes, etc.
-
-development and launch of app/projects
-
-hosting, marketing materials, etc.
+* hosting, marketing materials, etc.
+  - Need estimate on hosting costs for apps
+  - Domain registration (Brett will get quote)
+  - Twitter/facebook advertising
 
 ##EVENTS
 January
+Health Department Hackday
 Global Game Jam
 OpenDataSTL is sending a team to the Saint Louis site for the Global Game Jam, with the intention of creating a video game based on an opensource dataset. The hope is to use this as a means to increase awareness of the organization and opensource principles.
 
 February
-Datathon
+CodeAcross: Datathon
 A hackathon that focuses on the creation and analysis of open datasets. Cost can vary from $0-$5k
 Expenses Include:
 Food and Drinks
@@ -53,7 +62,7 @@ Space Reservations
 Prizes
 
 March
-State of the Map?
+FOIA Day
 
 April
 Editathon
