@@ -66,7 +66,12 @@ Many of our goals will be advanced during and through events.  In addition to th
 + Strategic Planning for 2016
 
 ##Outcomes
-What are the outcomes you’ll see if you’re successful?
+
++ Ideally, new open data policies implemented by City of St Louis and St Louis County.  (Much of our work is related to education and demonstration about why Open Data matters.)
++ At least 25 new datasets made open due to the efforts of OpenDataSTL
++ Events held, apps deployed, and projects completed that reflect the leadership and values of a more diverse OpenDataSTL membership (skillsets, backgrounds, genders, races/ethnicities, geographies, incomes) 
++ Additional partnerships with local governments, community not-for-profits, and private sector companies
++ Additional influence (perhaps measured via social media follows, web analytics, etc.) due to improved communication and messaging
 	
 ##Draft Budget
 
