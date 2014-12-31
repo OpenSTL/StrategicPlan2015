@@ -112,6 +112,7 @@ $ 600.00  CodeAcross
 $ 100.00  FOIA Day  
 $ 240.00  BuildForSTL Ramp Up  
 $2100.00  BuildForSTL (National Day of Civic Hacking)  
+**Overall Budget: $5500.00**  
 
 ###Brigade costs  
 Domain renewal: $140.00  
